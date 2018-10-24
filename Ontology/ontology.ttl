@@ -6,7 +6,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix clase: <http://www.semanticweb.org/group10/Clases#> .
 @prefix propiedad: <http://www.semanticweb.org/group10/Propiedades#> .
-@prefix individual: <http://www.semanticweb.org/group10/Individual#> .
+@prefix individual: <http://www.semanticweb.org/group10/Individuales#> .
 @base <http://www.semanticweb.org/group10/> .
 
 <http://www.semanticweb.org/group10/> rdf:type owl:Ontology .
